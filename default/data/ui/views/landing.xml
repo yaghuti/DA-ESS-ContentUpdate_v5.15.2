@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<view template="DA-ESS-ContentUpdate:/templates/landing.html" type="html">
+	<label>Home</label>
+</view>
